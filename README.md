@@ -1,2 +1,2 @@
-# x-dm-intro
-📝 Simple group DM intro builder for 𝕏. Generates concise, clear biz oriented Biz intros fast.
+# chat-intro
+📝 A simple group chat intro builder to help you introduce yourself clearly and confidently—no fluff, no awkward intros.”
